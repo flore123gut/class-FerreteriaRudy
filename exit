@@ -1,0 +1,29 @@
+[33mcommit 251a53f4254260939ab63009e38287a755bda984[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ramiro Molina Zeballos <ramiromolinazeballos@gmail.com>
+Date:   Fri Mar 25 21:55:38 2022 -0400
+
+    Diseño Página Usuario Administrador de Sistema
+
+[33mcommit df267254c0fa53e70c5214888f6668111e436aa6[m
+Author: Ramiro Molina Zeballos <ramiromolinazeballos@gmail.com>
+Date:   Thu Mar 24 22:59:23 2022 -0400
+
+    Aplicación de diseño LOGIN
+
+[33mcommit 8123aaeae4a67420ffd6cea4a0afee94a21c4721[m
+Author: Ramiro Molina Zeballos <ramiromolinazeballos@gmail.com>
+Date:   Thu Mar 24 14:55:58 2022 -0400
+
+    Estructura de usuario administrador
+
+[33mcommit b52de184c5a319cb4c71d0eee58375bfa9a71716[m
+Author: Ramiro Molina Zeballos <ramiromolinazeballos@gmail.com>
+Date:   Thu Mar 24 13:33:56 2022 -0400
+
+    Conexión php a base de datos y estructura login.
+
+[33mcommit 3ddac0c2c064c453e2a7306668dfe6402326d73e[m
+Author: Ramiro Molina Zeballos <ramiromolinazeballos@gmail.com>
+Date:   Thu Mar 24 10:42:04 2022 -0400
+
+    Agregando estructura de proyecto
